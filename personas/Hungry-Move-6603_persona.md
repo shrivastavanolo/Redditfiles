@@ -1,39 +1,33 @@
-**Hungry-Mover-6603 Persona Profile**
-=====================================
+**Hungry-Move-6603 Persona**
+================================
 
 ### Username
-* Username: Hungry-Mover-6603
+Hungry-Move-6603
 
 ### Location
-* Currently living in Lucknow, India (previously in Delhi)
-* Familiar with other Indian cities, such as Nagpur
+Born and raised in Delhi, currently living in Lucknow (LKO) since December 24 (Source: https://www.reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/)
 
 ### Goals and Needs
-* Seeking to understand and navigate the culture and daily life in Lucknow
-* Interested in finding high-quality food options
-* Possibly looking for social connections or community in Lucknow
+- Seeking high-quality food recommendations (Source: https://www.reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/)
+- Observing and commenting on the local culture and trends in Lucknow (Source: https://www.reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/)
 
 ### Motivations
-* Curiosity about the local culture and way of life in Lucknow
-* Desire for convenience and access to good food
-* Possibly driven by a sense of adventure or new experiences
+- Curiosity about the local culture and trends in Lucknow
+- Desire to find good food options in Lucknow
 
 ### Frustrations or Pain Points
-* Frustration with the prevalence of stickers on cars in Lucknow
-* Possibly disappointed by the decline of malls or retail spaces in Lucknow
-* Difficulty finding high-quality food options or reliable tiffin services
+- Perceived lack of high-quality food options in Lucknow (Source: https://www.reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/)
+- Amusement and confusion at the prevalence of car stickers in Lucknow (Source: https://www.reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/)
 
 ### Personality Traits
-* Observant and curious about the local culture
-* Possibly sarcastic or humorous in their comments (e.g., "What is the obsession peeps?")
-* May be a bit of an outsider or newcomer to Lucknow, seeking to understand and adapt
+- Observant and curious about local culture and trends
+- Possibly sarcastic or amused by the prevalence of car stickers in Lucknow
 
 ### Communication Style or Tone
-* Casual and conversational in their comments and posts
-* May use humor or sarcasm to express themselves
-* Open to discussing various topics and seeking information from others
+- Casual and conversational
+- Possibly humorous or sarcastic in tone
 
 ### Online Behavior or Reddit Usage Patterns
-* Active in subreddit communities related to Lucknow, India, and Indian culture
-* May be a lurker or occasional contributor to discussions
-* Interested in sharing experiences and gathering information from others in the community
+- Active in local Reddit communities (r/lucknow and r/nagpur)
+- Participates in discussions about local culture, trends, and food options
+- Prefers to engage in conversations rather than posting long-form content

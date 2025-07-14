@@ -21,6 +21,7 @@ def build_prompt():
         "- Communication style or tone\n"
         "- Online behavior or Reddit usage patterns\n\n"
         "⚠️ IMPORTANT RULES:\n"
+        "- Cite sources for every characteristic\n"
         "Do not output a persona yet. I will send you the Reddit content in chunks.\n"
         "Now analyze the following Reddit activity:\n\n"
     )
