@@ -81,12 +81,6 @@ This will:
 
 ---
 
-## 🌐 Live Deployment
-
-[https://reddit-persona.vercel.app](https://reddit-persona.vercel.app)
-
----
-
 ## Generated Persona Format
 
 The LLM will return Markdown like:

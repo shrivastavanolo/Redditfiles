@@ -11,6 +11,9 @@ profile_url = st.text_input(
     "Enter Reddit Profile URL (e.g., https://www.reddit.com/user/kojied/)"
 )
 
+if profile_url[-1] != "/":
+    profile_url+="/"
+
 if st.button("Generate Persona") and profile_url:
     with st.spinner("Scraping Reddit profile..."):
         username, data = get_user_content(profile_url)
