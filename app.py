@@ -3,7 +3,7 @@ import streamlit as st
 from scraping import get_user_content
 from persona_generator import generate_persona
 
-st.set_page_config(page_title="Reddit User Persona Generator")
+st.set_page_config(page_title="Redditfiles")
 
 st.title("👨‍💻 Reddit User Persona Generator")
 
