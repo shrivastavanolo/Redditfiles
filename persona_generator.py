@@ -11,7 +11,7 @@ def build_prompt():
     prompt = (
         "You are an analyst tasked with building a Reddit user's persona profile "
         "based on their public activity. Use the user's actual posts/comments below. "
-        "Generate a concise structured persona. The following fields are examples:\n"
+        "Generate a concise structured persona and cite sources from the posts/comments. The following fields are examples:\n"
         "- Username\n"
         "- Location\n"
         "- Goals and needs\n"
@@ -21,7 +21,7 @@ def build_prompt():
         "- Communication style or tone\n"
         "- Online behavior or Reddit usage patterns\n\n"
         "⚠️ IMPORTANT RULES:\n"
-        "- Cite sources for every characteristic\n"
+        "- Cite source urls\n"
         "Do not output a persona yet. I will send you the Reddit content in chunks.\n"
         "Now analyze the following Reddit activity:\n\n"
     )
@@ -53,7 +53,7 @@ def generate_persona(data, username, chunk_size=10):
     messages.append({
         "role": "user",
         "content": (
-            f"Now that you have all the data, generate a structured user persona for {username}"
+            f"Now that you have all the data, generate a structured user persona for {username} and cite sources for each characteristic"
             "Format output in Markdown."
         )
     })
